@@ -11,13 +11,16 @@ paginate: true
 
 ## おしながき
 
-1. Git/Githubとは
-2. 実際に使ってみよう
+1. バージョン管理の必要性を知ろう
+2. Gitとは
+3. GitHubとは
+4. `local`と`remote`
+5. Gitの基本用語
+6. 実際に使ってみよう
 
 ---
 
-# 1. Git/GitHubとは
-### **1-1. バージョン管理の必要性を知ろう**
+# 1. バージョン管理の必要性を知ろう
 
 ---
 
@@ -75,8 +78,7 @@ paginate: true
 
 ---
 
-# 1. Git/GitHubとは
-### **1-2. Gitとは**
+# 2. Gitとは
 
 ---
 
@@ -95,8 +97,7 @@ paginate: true
 
 ---
 
-# 1. Git/GitHubとは
-### **1-3. GitHubとは**
+# 3. GitHubとは
 
 ---
 
@@ -110,3 +111,69 @@ paginate: true
 > `Git`＝エンジン
 > `GitHub`＝Gitを便利に使うサービス
 > というイメージかなぁ...。
+
+---
+
+# 4. `local`と`remote`
+
+---
+
+### Gitの大事な考え方 = `local`と`remote`
+
+##### `local`
+- 自分のPC上にある作業場所
+- teradaにはteradaの`local`があり、abeにはabeの`local`が存在する
+
+##### `remote`
+- インターネット上にある共有場所
+- GitHubが`remote`にあたる<br>（GitHubを使う場合）
+
+---
+
+# 5. Gitの基本用語
+
+---
+
+## 基本用語一覧
+
+- Repository（レポジトリ/リポジトリ）
+- Clone（クローン）
+- Commit（コミット）
+- Push（プッシュ）
+- Pull（プル）
+- Branch（ブランチ）
+- Merge（マージ）
+- Conflict（コンフリクト）
+- Resolve（リゾルブ）
+
+---
+
+## 参考資料
+- [完全初心者向けGit用語集 | Qiita](https://qiita.com/shinshingodmt/items/637cf9e5c6660509c460)
+- [Git 基本の用語集 | Qiita](https://qiita.com/toshi_um/items/72c9d929a600323b2e77)
+- [【Git・GitHub】用語のまとめ](https://zenn.dev/miya_akari/articles/13c718afa783fe)
+
+> いろいろ自分で調べてみてね
+
+---
+
+# 6. 実際に使ってみよう
+
+---
+
+## 実習のおしながき
+
+1. 既存のリポジトリをクローンしてみよう
+2. ブランチを切ってみよう
+3. ファイルを変更してコミットしてみよう
+4. プッシュしてみよう
+5. マージしてみよう
+6. コンフリクトを起こしてリゾルブしよう
+7. GitHubの便利機能を使ってみよう
+
+---
+
+ここからは講師のPC画面を見てください。
+
+---
+
