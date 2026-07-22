@@ -1,5 +1,6 @@
 ---
 marp: true
+header: "2026.07.22"
 footer: "Git/GitHub講習会"
 paginate: true
 ---
@@ -174,6 +175,3 @@ paginate: true
 ---
 
 ここからは講師のPC画面を見てください。
-
----
-
